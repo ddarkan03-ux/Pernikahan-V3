@@ -76,7 +76,7 @@ window.DATA = {
   ],
   "hadiah": [
     {
-      "bank": "BJB",
+      "bank": "BNI",
       "nomor": "1234567890",
       "atasNama": "Raka Pratama"
     },
